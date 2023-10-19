@@ -40,7 +40,7 @@ graph LR
 
 ### 设备端
 
-[电子皮肤/断指ESP32程序](https://github.com/huigang39/eskin_esp32)
+[电子皮肤/断指ESP32程序](https://github.com/huigang39/eskin/tree/main/eskin_esp32)
 
 该模块使用 PlatformIO 开发，若使用 Arduino IDE 复现或二次开发本模块，将 `src` 文件夹中的 `main.cpp` 改为 `main.ino` 即可编译。
 
@@ -68,7 +68,7 @@ K --> E
 
 ### 服务端
 
-[电子皮肤/断指服务端程序](https://github.com/huigang39/eskin_server)
+[电子皮肤/断指服务端程序](https://github.com/huigang39/eskin/tree/main/eskin_server)
 
 该模块主要分为两个部分：
 
@@ -104,7 +104,7 @@ O --> |否| S[从连接列表中移除连接]
 
 ### 客户端
 
-[电子皮肤/断指Flutter程序](https://github.com/huigang39/eskin_flutter)
+[电子皮肤/断指Flutter程序](https://github.com/huigang39/eskin/tree/main/eskin_flutter)
 
 该模块使用 Flutter 跨平台软件开发框架，不推荐复现本模块，因为环境配置较为繁琐。
 
